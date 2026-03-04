@@ -2,7 +2,7 @@
 FROM nginx:alpine
 
 # Maintainer / author information
-LABEL maintainer="george.koufie@example.com"
+LABEL maintainer="g@example.com"
 LABEL description="Week 3 DevOps Project: Containerized NGINX deployment"
 
 # Set environment variables
